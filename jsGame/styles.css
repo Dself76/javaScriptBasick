@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+}
+button {
+    font-size: 24px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #6495ED;
+    color: white;
+    border: none;
+    margin: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4169E1;
+  }
+  
